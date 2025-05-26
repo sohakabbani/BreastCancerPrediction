@@ -1,0 +1,19 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore dataset files (optional: see note below)
+*.csv
+*.xlsx
+*.tsv
+data/
+
+# Ignore virtual environments (if any)
+venv/
+.env/
